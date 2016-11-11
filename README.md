@@ -11,4 +11,8 @@ I reorganized the columns in [chord.csv](https://github.com/bmkramer/scienceisgl
 I added [geocoordinates](https://developers.google.com/public-data/docs/canonical/countries_csv) (lat/long) to the data, used the [Geo Layout plugin](https://marketplace.gephi.org/plugin/geolayout/) in Gephi, and created three networks, with all edges, edges > 100 or edges > 200, respectively. 
 
 
-![](http://ruleofthirds.de/assets/images/scienceisglobal.png)
+![](https://github.com/bmkramer/scienceisglobal/blob/geolayout/geolayout_edge1.png)
+
+![](https://github.com/bmkramer/scienceisglobal/blob/geolayout/geolayout_edge100.png)
+
+![](https://github.com/bmkramer/scienceisglobal/blob/geolayout/geolayout_edge200.png)
