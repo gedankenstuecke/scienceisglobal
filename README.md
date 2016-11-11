@@ -1,6 +1,6 @@
 # scienceisglobal
 
-]Based on [gedankenstuecke/scienceisglobal](https://github.com/gedankenstuecke/scienceisglobal)
+Based on [gedankenstuecke/scienceisglobal](https://github.com/gedankenstuecke/scienceisglobal)
 
 ![](http://ruleofthirds.de/assets/images/scienceisglobal.png)
 
