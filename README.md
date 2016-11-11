@@ -1,5 +1,7 @@
 # scienceisglobal
 
+]Based on [gedankenstuecke/scienceisglobal](https://github.com/gedankenstuecke/scienceisglobal)
+
 ![](http://ruleofthirds.de/assets/images/scienceisglobal.png)
 
 See [this blog post for some more general information](http://ruleofthirds.de/scienceisglobal/). 
